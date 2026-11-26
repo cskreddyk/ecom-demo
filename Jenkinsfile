@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME = "kastrov/multibranch-flask-app"
+        IMAGE_NAME = "cskreddy1511/multibranch-flask-app"
         GIT_USER   = "cskreddy1511"
         GIT_EMAIL  = "chandrakakuri2@gmail.com"
     }
